@@ -5,6 +5,12 @@
     --dark: #0F172B;
 }
 
+.responsive {
+    width: auto ;
+    max-width: 100% ;
+    height: auto;
+}
+
 .ff-secondary {
     font-family: 'Pacifico', cursive;
 }
