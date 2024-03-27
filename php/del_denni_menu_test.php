@@ -1,5 +1,5 @@
 <?php
-        $data="denni_menu.jpg";    
+        $data="pokus.jpg";    
         $dir = "portstanley.cz/www/img/denni_nabidka";    
         $dirHandle = opendir($dir);    
         while ($file = readdir($dirHandle)) {    
